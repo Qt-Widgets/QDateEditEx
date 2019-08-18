@@ -1,3 +1,5 @@
+QT       +=  widgets
+
 TEMPLATE = lib
 TARGET = qdateeditex
 
